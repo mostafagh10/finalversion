@@ -1,0 +1,13 @@
+@media (max-width:767px){
+    .loginpage{
+        margin: auto;
+        width: 90%;
+        color: black;
+    }
+    #oneSeat{
+        color: black;
+    }
+    #oneSeat input{
+        width: 90%;
+    }
+}

@@ -1,0 +1,17 @@
+.selectstatistics{
+    width: 50%;
+    height: 50px;
+    border-radius: 30px;
+    outline: none;
+    text-align-last:center;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+@media (max-width:767px){
+    .selectstatistics{
+        width: 90%;
+    }
+}
+.selectstatistics:hover{
+    cursor: pointer;
+}

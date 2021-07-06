@@ -1,0 +1,43 @@
+@media (max-width:767px){
+    .loginpage{
+        margin: auto;
+        width: 90%;
+        color: black;
+    }
+    #oneSeat{
+        color: black;
+    }
+    #oneSeat input{
+        width: 90%;
+    }
+}
+
+.loginimage{
+    text-align: center;
+    background-color: rgb(86 152 152);
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 0px;
+    padding-bottom: 200px;
+    margin-bottom: -2px;
+    border-top-right-radius: 600px;
+}
+.main{
+    text-align: center;
+    margin-top: 30px;
+    position: relative;
+    transform-style: preserve-3d;
+    border: solid 1px #c3c3c3;
+    border-top-left-radius: 23px;
+    border-bottom-right-radius: 100px;
+    border-top-right-radius: 100px;
+    box-shadow: 0px 0px 8px #2a91ff;
+}
+.main2{
+    border-radius: 50px;
+  text-align: center;
+  margin-top: 30px;
+  position: relative;
+  transform-style: preserve-3d;
+  box-shadow: 5px 3px 10px #e1f1e3,
+      -5px -3px 10px #e1f1e3;
+}

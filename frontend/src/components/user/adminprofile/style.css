@@ -1,0 +1,26 @@
+.profilebodyadmin{
+    background-color: rgb(145, 195, 214);
+    min-height: 100vh;
+}
+
+.card{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.content{
+    background-color: white;
+}
+.sidebarcard2{
+    background-color: black;
+    color: white;
+    height: 94%;
+    margin-top: 10px;
+    min-height: calc(100vh - 150px);
+}
+.content2{
+    padding: 3px;
+    margin-top: 10px;
+    min-height: calc(100vh - 150px);
+}

@@ -1,0 +1,18 @@
+.recovered{
+    background-color: rgb(21, 197, 101) !important;
+    color: white;
+}
+.confirmed{
+    background-color: rgb(240, 100, 8) !important;
+    color: white;
+}
+.deaths{
+    background-color: rgb(128, 13, 13) !important;
+    color: white;
+}
+.recovered,.confirmed,.deaths{
+    margin-top: 10px;
+    padding-top: 20px;
+    border-radius: 20px !important;
+    height: 180px;
+}

@@ -1,0 +1,27 @@
+.recovered2{
+    background-color: rgb(2, 175, 255) !important;
+    color: white;
+}
+.confirmed2{
+    background-color: rgb(34, 134, 180) !important;
+    color: white;
+}
+.deaths2{
+    background-color: rgb(8, 96, 99) !important;
+    color: white;
+}
+.allcard_s{
+    margin-top: 10px;
+    padding-top: 10px;
+    border-radius: 20px !important;
+    height: 170px;
+    cursor:pointer;
+    transition : all 0.5s ease-in-out;
+}
+.allcard_s:hover{
+    box-shadow:0px 0px 8px gray;
+}
+.icon2{
+    margin: auto;
+    font-size: 30px;
+}
